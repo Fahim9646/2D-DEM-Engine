@@ -1,0 +1,19 @@
+Property,Unit,Standard,River_Sand,Crushed_Sand
+D10,mm,ASTM D-442-63,1.72,1.72
+D30,mm,ASTM D-442-63,1.9,2.2
+D50,mm,ASTM D-442-63,2.1,2.85
+D60,mm,ASTM D-442-63,2.3,3.1
+Coefficient_of_Uniformity_Cu,dimensionless,ASTM D-442-63,1.34,1.8
+Coefficient_of_Curvature_Cc,dimensionless,ASTM D-442-63,0.91,0.91
+Specific_Gravity_Gs,dimensionless,ASTM D 854-00,2.67,2.69
+Maximum_Dry_Unit_Weight_yd_max,kN/m3,ASTM D 4253,17.78,17.95
+Minimum_Dry_Unit_Weight_yd_min,kN/m3,ASTM D 4254,14.8,15.04
+Field_Dry_Unit_Weight_yd_field,kN/m3,Direct shear box,16.35,16.6
+Relative_Density_Dr,percent,ASTM D 4253/4254,56.56,57.97
+USCS_Classification,dimensionless,ASTM D-442-63,SP (Poorly graded sand),SP (Poorly graded sand)
+Particle_Size_Range,mm,ASTM D-442-63,1.70-4.75,1.70-4.75
+Particle_Shape,descriptive,Visual,Sub-rounded to rounded,Angular to sub-angular
+Concrete_Mix_Ratio_Cement_Sand_Agg,dimensionless,ACI,01:05.5,01:05.5
+Concrete_Sample_Dimensions,mm,Modified shear box,60x60x15,60x60x15
+Concrete_Curing_Period,days,ACI 318,28,28
+Concrete_Surface_Condition,descriptive,Visual,Smooth,Smooth

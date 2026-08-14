@@ -1,0 +1,41 @@
+Sand_Type,Interface_Mode,Bedding_Angle_theta_deg,Normal_Stress_sigma_n_kPa,Experimental_phi_deg,Experimental_tau_peak_kPa,Target_for_DEM_validation,Acceptable_DEM_error_deg,DEM_Particle_Shape,DEM_Aspect_Ratio
+River Sand,Sand-Sand,0,27.25,44.11,26.416,phi_DEM within +/-3 deg of 44.11,3,Hexagon (elongated),1.8
+River Sand,Sand-Sand,15,27.25,47.69,29.937,phi_DEM within +/-3 deg of 47.69,3,Hexagon (elongated),1.8
+River Sand,Sand-Sand,30,27.25,51.57,34.344,phi_DEM within +/-3 deg of 51.57,3,Hexagon (elongated),1.8
+River Sand,Sand-Sand,45,27.25,54.88,38.744,phi_DEM within +/-3 deg of 54.88,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,0,27.25,28.07,14.532,phi_DEM within +/-3 deg of 28.07,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,0,54.5,28.07,29.064,phi_DEM within +/-3 deg of 28.07,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,0,109,28.07,58.127,phi_DEM within +/-3 deg of 28.07,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,15,27.25,28.81,14.987,phi_DEM within +/-3 deg of 28.81,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,15,54.5,28.81,29.974,phi_DEM within +/-3 deg of 28.81,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,15,109,28.81,59.948,phi_DEM within +/-3 deg of 28.81,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,30,27.25,29.2,15.23,phi_DEM within +/-3 deg of 29.2,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,30,54.5,29.2,30.459,phi_DEM within +/-3 deg of 29.2,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,30,109,29.2,60.918,phi_DEM within +/-3 deg of 29.2,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,45,27.25,30.87,16.289,phi_DEM within +/-3 deg of 30.87,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,45,54.5,30.87,32.579,phi_DEM within +/-3 deg of 30.87,3,Hexagon (elongated),1.8
+River Sand,Sand-Concrete,45,109,30.87,65.158,phi_DEM within +/-3 deg of 30.87,3,Hexagon (elongated),1.8
+Crushed Sand,Sand-Sand,0,27.25,50.45,32.998,phi_DEM within +/-3 deg of 50.45,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,0,54.5,50.45,65.996,phi_DEM within +/-3 deg of 50.45,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,0,109,50.45,131.993,phi_DEM within +/-3 deg of 50.45,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,15,27.25,54,37.506,phi_DEM within +/-3 deg of 54,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,15,54.5,54,75.013,phi_DEM within +/-3 deg of 54,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,15,109,54,150.026,phi_DEM within +/-3 deg of 54,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,30,27.25,56.39,40.999,phi_DEM within +/-3 deg of 56.39,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,30,54.5,56.39,81.998,phi_DEM within +/-3 deg of 56.39,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,30,109,56.39,163.996,phi_DEM within +/-3 deg of 56.39,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,45,27.25,57.64,43.005,phi_DEM within +/-3 deg of 57.64,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,45,54.5,57.64,86.011,phi_DEM within +/-3 deg of 57.64,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Sand,45,109,57.64,172.022,phi_DEM within +/-3 deg of 57.64,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,0,27.25,28.78,14.968,phi_DEM within +/-3 deg of 28.78,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,0,54.5,28.78,29.937,phi_DEM within +/-3 deg of 28.78,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,0,109,28.78,59.874,phi_DEM within +/-3 deg of 28.78,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,15,27.25,29.67,15.524,phi_DEM within +/-3 deg of 29.67,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,15,54.5,29.67,31.048,phi_DEM within +/-3 deg of 29.67,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,15,109,29.67,62.097,phi_DEM within +/-3 deg of 29.67,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,30,27.25,30.21,15.866,phi_DEM within +/-3 deg of 30.21,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,30,54.5,30.21,31.732,phi_DEM within +/-3 deg of 30.21,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,30,109,30.21,63.465,phi_DEM within +/-3 deg of 30.21,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,45,27.25,30.94,16.335,phi_DEM within +/-3 deg of 30.94,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,45,54.5,30.94,32.669,phi_DEM within +/-3 deg of 30.94,3,Irregular angular polygon,2.4
+Crushed Sand,Sand-Concrete,45,109,30.94,65.339,phi_DEM within +/-3 deg of 30.94,3,Irregular angular polygon,2.4

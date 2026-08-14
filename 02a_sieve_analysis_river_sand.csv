@@ -1,0 +1,9 @@
+Sieve_Number,Sieve_Diameter_mm,Mass_Empty_Sieve_g,Mass_Sieve_plus_Soil_g,Soil_Retained_g,Percent_Retained_pct,Percent_Cumulative_Retained_pct,Percent_Passing_pct
+"3/8""",9.5,564,564,0,0.0,0.0,100.0
+#4,4.75,452,466,14,4.73,4.73,95.27
+#8,2.36,286,276,90,30.41,35.14,64.86
+#12,1.7,302,472,170,57.43,92.57,7.43
+#16,1.18,302,320,18,6.08,98.65,1.35
+#30,0.6,278,283,3,1.01,99.66,0.34
+#50,0.3,272,272,1,0.34,100.0,0.0
+Pan,---,462,462,0,0.0,100.0,0.0

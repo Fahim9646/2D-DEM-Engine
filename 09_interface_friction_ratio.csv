@@ -1,0 +1,9 @@
+Sand_Type,Bedding_Angle_theta_deg,Internal_Friction_Angle_phi_deg,Interfacial_Friction_Angle_phi_inter_deg,Ratio_phi_inter_over_phi
+River Sand,0,44.11,28.07,0.6364
+River Sand,15,47.69,28.81,0.6041
+River Sand,30,51.57,29.2,0.5662
+River Sand,45,54.88,30.87,0.5625
+Crushed Sand,0,50.45,28.78,0.5705
+Crushed Sand,15,54,29.67,0.5494
+Crushed Sand,30,56.39,30.21,0.5357
+Crushed Sand,45,57.64,30.94,0.5368

@@ -1,0 +1,17 @@
+Sand_Type,Interface_Mode,Bedding_Angle_theta_deg,Peak_Friction_Angle_phi_deg,Delta_phi_from_theta0_deg,Phi_ratio_theta_over_theta0,Anisotropy_Intensity_index,Comparison_Note
+River Sand,Sand-Sand,0,44.11,0,1,0.2442,River sand shows higher anisotropy increment
+River Sand,Sand-Sand,15,47.69,3.58,1.0812,0.2442,River sand shows higher anisotropy increment
+River Sand,Sand-Sand,30,51.57,7.46,1.1691,0.2442,River sand shows higher anisotropy increment
+River Sand,Sand-Sand,45,54.88,10.77,1.2442,0.2442,River sand shows higher anisotropy increment
+River Sand,Sand-Concrete,0,28.07,0,1,0.0998,River sand shows higher anisotropy increment
+River Sand,Sand-Concrete,15,28.81,0.74,1.0264,0.0998,River sand shows higher anisotropy increment
+River Sand,Sand-Concrete,30,29.2,1.13,1.0403,0.0998,River sand shows higher anisotropy increment
+River Sand,Sand-Concrete,45,30.87,2.8,1.0998,0.0998,River sand shows higher anisotropy increment
+Crushed Sand,Sand-Sand,0,50.45,0,1,0.1425,Crushed > River at each theta
+Crushed Sand,Sand-Sand,15,54,3.55,1.0704,0.1425,Crushed > River at each theta
+Crushed Sand,Sand-Sand,30,56.39,5.94,1.1177,0.1425,Crushed > River at each theta
+Crushed Sand,Sand-Sand,45,57.64,7.19,1.1425,0.1425,Crushed > River at each theta
+Crushed Sand,Sand-Concrete,0,28.78,0,1,0.0751,Crushed > River at each theta
+Crushed Sand,Sand-Concrete,15,29.67,0.89,1.0309,0.0751,Crushed > River at each theta
+Crushed Sand,Sand-Concrete,30,30.21,1.43,1.0497,0.0751,Crushed > River at each theta
+Crushed Sand,Sand-Concrete,45,30.94,2.16,1.0751,0.0751,Crushed > River at each theta

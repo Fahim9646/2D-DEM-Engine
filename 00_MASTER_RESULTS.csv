@@ -1,0 +1,41 @@
+Sand_Type,Interface_Mode,Bedding_Angle_theta_deg,Normal_Stress_sigma_n_kPa,Peak_Friction_Angle_phi_deg,tan_phi,Peak_Shear_Stress_tau_peak_kPa,Interfacial_Friction_Ratio_phi_inter_over_phi,Unit_Weight_kNm3,Relative_Density_pct,D50_mm,Gs,USCS,Particle_Shape,Box_Size_mm,Concrete_Surface,ASTM_Standard
+River Sand,Sand-Sand,0,27.25,44.11,0.9694,26.4163,N/A (internal),16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 3080-04
+River Sand,Sand-Concrete,0,27.25,28.07,0.5333,14.5318,0.64,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Concrete,0,54.5,28.07,0.5333,29.0636,0.64,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Concrete,0,109,28.07,0.5333,58.1273,0.64,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Sand,15,27.25,47.69,1.0986,29.9369,N/A (internal),16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 3080-04
+River Sand,Sand-Concrete,15,27.25,28.81,0.55,14.987,0.6,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Concrete,15,54.5,28.81,0.55,29.974,0.6,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Concrete,15,109,28.81,0.55,59.948,0.6,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Sand,30,27.25,51.57,1.2603,34.344,N/A (internal),16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 3080-04
+River Sand,Sand-Concrete,30,27.25,29.2,0.5589,15.2295,0.57,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Concrete,30,54.5,29.2,0.5589,30.459,0.57,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Concrete,30,109,29.2,0.5589,60.918,0.57,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Sand,45,27.25,54.88,1.4218,38.7441,N/A (internal),16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 3080-04
+River Sand,Sand-Concrete,45,27.25,30.87,0.5978,16.2894,0.56,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Concrete,45,54.5,30.87,0.5978,32.5788,0.56,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+River Sand,Sand-Concrete,45,109,30.87,0.5978,65.1577,0.56,16.35,56.56,2.1,2.67,SP,Sub-rounded,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Sand,0,27.25,50.45,1.2109,32.9982,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Sand,0,54.5,50.45,1.2109,65.9964,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Sand,0,109,50.45,1.2109,131.9927,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Concrete,0,27.25,28.78,0.5493,14.9684,0.57,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Concrete,0,54.5,28.78,0.5493,29.9369,0.57,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Concrete,0,109,28.78,0.5493,59.8737,0.57,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Sand,15,27.25,54,1.3764,37.5064,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Sand,15,54.5,54,1.3764,75.0128,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Sand,15,109,54,1.3764,150.0256,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Concrete,15,27.25,29.67,0.5697,15.5242,0.55,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Concrete,15,54.5,29.67,0.5697,31.0484,0.55,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Concrete,15,109,29.67,0.5697,62.0969,0.55,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Sand,30,27.25,56.39,1.5046,40.999,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Sand,30,54.5,56.39,1.5046,81.998,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Sand,30,109,56.39,1.5046,163.9961,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Concrete,30,27.25,30.21,0.5822,15.8662,0.54,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Concrete,30,54.5,30.21,0.5822,31.7325,0.54,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Concrete,30,109,30.21,0.5822,63.465,0.54,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Sand,45,27.25,57.64,1.5782,43.0055,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Sand,45,54.5,57.64,1.5782,86.0109,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Sand,45,109,57.64,1.5782,172.0219,N/A (internal),16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 3080-04
+Crushed Sand,Sand-Concrete,45,27.25,30.94,0.5994,16.3346,0.54,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Concrete,45,54.5,30.94,0.5994,32.6693,0.54,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321
+Crushed Sand,Sand-Concrete,45,109,30.94,0.5994,65.3386,0.54,16.6,57.97,2.85,2.69,SP,Angular,60x60x37,Intermediate,ASTM D 5321

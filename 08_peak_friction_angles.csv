@@ -1,0 +1,18 @@
+Sand_Type,Interface_Mode,Bedding_Angle_?,Peak_Friction_Angle_?,tan_?,Anisotropy_Ratio  ?_?_over_?0,"?_increase
+from_?0"
+River Sand,Sand-Sand,0,44.11,0.9694,1,0
+River Sand,Sand-Sand,15,47.69,1.0986,1.0812,3.58
+River Sand,Sand-Sand,30,51.57,1.2603,1.1691,7.46
+River Sand,Sand-Sand,45,54.88,1.4218,1.2442,10.77
+River Sand,Sand-Concrete,0,28.07,0.5333,1,0
+River Sand,Sand-Concrete,15,28.81,0.55,1.0264,0.74
+River Sand,Sand-Concrete,30,29.2,0.5589,1.0403,1.13
+River Sand,Sand-Concrete,45,30.87,0.5978,1.0998,2.8
+Crushed Sand,Sand-Sand,0,50.45,1.2109,1,0
+Crushed Sand,Sand-Sand,15,54,1.3764,1.0704,3.55
+Crushed Sand,Sand-Sand,30,56.39,1.5046,1.1177,5.94
+Crushed Sand,Sand-Sand,45,57.64,1.5782,1.1425,7.19
+Crushed Sand,Sand-Concrete,0,28.78,0.5493,1,0
+Crushed Sand,Sand-Concrete,15,29.67,0.5697,1.0309,0.89
+Crushed Sand,Sand-Concrete,30,30.21,0.5822,1.0497,1.43
+Crushed Sand,Sand-Concrete,45,30.94,0.5994,1.0751,2.16

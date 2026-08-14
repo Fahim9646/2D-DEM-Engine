@@ -1,0 +1,7 @@
+Sand_Type,Condition,Observation,Mass_Empty_Mold_m1_kg,Mass_Mold_plus_Sand_m2_kg,Mass_Sand_M_kg,Volume_Mold_V_cm3,Dry_Density_yd_kNm3,Average_Dry_Density_kNm3
+River Sand,Loose (minimum),Obs 1,3.132,4.442,1.31,866.29,14.83,14.8
+River Sand,Loose (minimum),Obs 2,3.132,4.436,1.304,866.29,14.77,14.8
+River Sand,Dense (maximum),Obs 1,4.674,6.354,1.68,926.77,17.78,17.78
+Crushed Sand,Loose (minimum),Obs 1,4.674,6.0,1.326,866.29,15.02,15.04
+Crushed Sand,Loose (minimum),Obs 2,4.674,6.004,1.33,866.29,15.06,15.04
+Crushed Sand,Dense (maximum),Obs 1,4.674,6.37,1.696,926.77,17.95,17.95

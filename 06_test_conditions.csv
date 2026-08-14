@@ -1,0 +1,5 @@
+Sand_Type,Interface_Mode,ASTM_Standard,Shear_Box_Size_mm,Bedding_Angles_tested_deg,Normal_Stresses_tested_kPa,Unit_Weight_kNm3,Relative_Density_pct,Number_of_Tests
+River Sand,Sand-Sand,ASTM D 3080-04,60x60x37,"0, 15, 30, 45",27.25 only,16.35,56.56,4
+River Sand,Sand-Concrete,ASTM D 5321,60x60x37,"0, 15, 30, 45","27.25, 54.50, 109.0",16.35,56.56,12
+Crushed Sand,Sand-Sand,ASTM D 3080-04,60x60x37,"0, 15, 30, 45","27.25, 54.50, 109.0",16.6,57.97,12
+Crushed Sand,Sand-Concrete,ASTM D 5321,60x60x37,"0, 15, 30, 45","27.25, 54.50, 109.0",16.6,57.97,12

@@ -1,0 +1,17 @@
+Interface_Mode,Bedding_Angle_theta_deg,Normal_Stress_sigma_n_kPa,River_Sand_phi_deg,Crushed_Sand_phi_deg,Difference_Crushed_minus_River_deg,River_tau_peak_kPa,Crushed_tau_peak_kPa,Tau_Increase_Crushed_over_River_pct
+Sand-Sand,0,27.25,44.11,50.45,6.34,26.416,32.998,24.9
+Sand-Sand,15,27.25,47.69,54,6.31,29.937,37.506,25.3
+Sand-Sand,30,27.25,51.57,56.39,4.82,34.344,40.999,19.4
+Sand-Sand,45,27.25,54.88,57.64,2.76,38.744,43.005,11
+Sand-Concrete,0,27.25,28.07,28.78,0.71,14.532,14.968,3
+Sand-Concrete,0,54.5,28.07,28.78,0.71,29.064,29.937,3
+Sand-Concrete,0,109,28.07,28.78,0.71,58.127,59.874,3
+Sand-Concrete,15,27.25,28.81,29.67,0.86,14.987,15.524,3.6
+Sand-Concrete,15,54.5,28.81,29.67,0.86,29.974,31.048,3.6
+Sand-Concrete,15,109,28.81,29.67,0.86,59.948,62.097,3.6
+Sand-Concrete,30,27.25,29.2,30.21,1.01,15.23,15.866,4.2
+Sand-Concrete,30,54.5,29.2,30.21,1.01,30.459,31.732,4.2
+Sand-Concrete,30,109,29.2,30.21,1.01,60.918,63.465,4.2
+Sand-Concrete,45,27.25,30.87,30.94,0.07,16.289,16.335,0.3
+Sand-Concrete,45,54.5,30.87,30.94,0.07,32.579,32.669,0.3
+Sand-Concrete,45,109,30.87,30.94,0.07,65.158,65.339,0.3
